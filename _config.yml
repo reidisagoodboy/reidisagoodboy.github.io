@@ -35,8 +35,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-  comment: true
-  gitment_owner: reidisagoodboy
-  gitment_repo: reidisagoodboy.github.io
-  gitment_client_id: 58d58b3b4e1455d65d65
- gitment_secret: 9ae2105cbd4ece189bed49bb21e9db8d6792a9a9
+  
