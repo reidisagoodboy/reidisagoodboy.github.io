@@ -34,3 +34,8 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
+
+  comment: true
+  gitment_owner: reidisagoodboy
+  gitment_repo: reidisagoodboy.github.io
+  
